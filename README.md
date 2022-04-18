@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plattj2323
 - 👀 I’m interested in all things electronic!
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: Discord: Trovix#8858
+- 📫 Discord: Trovix#8858
 
 <!---
 plattj2323/plattj2323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
