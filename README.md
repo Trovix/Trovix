@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plattj2323
+- 👋 Hi, I’m @Trovix
 - 👀 I’m interested in all things electronic!
 - 🌱 I’m currently learning C++
 - 📫 Discord: Trovix#8858
