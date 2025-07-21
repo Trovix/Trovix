@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Trovix
-- 👀 I’m interested in all things electronic!
+- 🎓2nd Year Electronic Engineering Student @UoM
+- 🏎️ Working on Embedded Systems Electronics in Motorsport
+- 🎨 Developing custom frontend UI/UX solutions 
 - 📫 Discord: trovix
 
 <!---
