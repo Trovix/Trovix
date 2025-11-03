@@ -1,6 +1,6 @@
-- 🎓2nd Year Electronic Engineering Student @UoM
+- 🎓2nd Year Electronic & Electrical Engineering Student @UoM
 - 🏎️ Working on Embedded Systems Electronics in Motorsport
-- 🎨 Developing custom frontend UI/UX solutions 
+- 🎨 Developing frontend UI/UX solutions 
 - 📫 Discord: trovix
 
 <!---
