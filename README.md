@@ -21,5 +21,5 @@
 - FPGA / HDL 
 
 ## Links
-- james-platt.com
+- [james-platt.com](https://james-platt.com)
 
