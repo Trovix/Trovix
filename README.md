@@ -1,9 +1,25 @@
-- 🎓2nd Year Electronic & Electrical Engineering Student @UoM
-- 🏎️ Working on Embedded Systems Electronics in Motorsport
+# James Platt
+2nd Year Student studying Electrical & Electronic Engineering at the University of Manchester
 
+## Current Focus
+- Formula Student - Electronics Sub-Team Lead (IC + EV platforms)
+- Safety-critical embedded systems (Shutdown circuitry, CAN)
+- Cross-platform arbitrage system (Icarus)
+- C++ systems design and performance
 
+## Selected Work
+- Icarus - cross-platform arbitrage routing system (C++, low-latency, deterministic design)
+- MSM_CAN - ESP32 CAN abstraction layer with enforced bus architecture and minimal API
+- Luciferin - custom motor controller (power electronics, control firmware)
+- Auto gear shifter - closed-loop control using encoder feedback and ESC actuation
 
-<!---
-plattj2323/plattj2323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical Areas
+- Embedded C/C++ (ESP32, FreeRTOS)
+- CAN bus systems (network design, signal packing, tooling)
+- Digital control systems
+- Power electronics fundamentals
+- FPGA / HDL 
+
+## Links
+- james-platt.com
+
