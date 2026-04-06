@@ -8,7 +8,7 @@
 - C++ systems design and performance
 
 ## Selected Work
-- Icarus - cross-platform arbitrage routing system (C++, low-latency, deterministic design)
+- Icarus - cross-platform arbitrage routing system (C++ project for prediction markets)
 - MSM_CAN - ESP32 CAN abstraction layer with enforced bus architecture and minimal API
 - Luciferin - custom motor controller (power electronics, control firmware)
 - Auto gear shifter - closed-loop control using encoder feedback and ESC actuation
