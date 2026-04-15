@@ -5,11 +5,10 @@
 - Formula Student - Electronics Sub-Team Lead (IC + EV platforms)
 - Safety-critical embedded systems (Shutdown circuitry, CAN)
 - Cross-platform arbitrage system (Icarus)
-- C++ systems design and performance
 
 ## Selected Work
 - Icarus - cross-platform arbitrage routing system (C++ project for prediction markets)
-- MSM_CAN - ESP32 CAN abstraction layer with enforced bus architecture and minimal API
+- MSM_CAN - ESP32 CAN abstraction layer and API
 - Luciferin - custom motor controller (power electronics, control firmware)
 - Auto gear shifter - closed-loop control using encoder feedback and ESC actuation
 
