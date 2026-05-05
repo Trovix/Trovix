@@ -21,4 +21,5 @@
 
 ## Links
 - [james-platt.com](https://james-platt.com)
+- NOTE: Website under maintenance, please come back later!
 
