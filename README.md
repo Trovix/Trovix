@@ -16,10 +16,9 @@
 - Embedded C/C++ (ESP32, FreeRTOS)
 - CAN bus systems (network design, signal packing, tooling)
 - Digital control systems
-- Power electronics fundamentals
 - FPGA / HDL 
 
 ## Links
 - [james-platt.com](https://james-platt.com)
-- NOTE: Website under maintenance, please come back later!
+
 
