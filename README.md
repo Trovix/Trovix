@@ -14,11 +14,11 @@
 
 ## Technical Areas
 - Embedded C/C++ (ESP32, FreeRTOS)
-- CAN bus systems (network design, signal packing, tooling)
+- CAN bus systems (network design, tooling)
 - Digital control systems
 - FPGA / HDL 
 
 ## Links
-- [james-platt.com](https://james-platt.com)
+- [james-platt.com](https://james-platt.com) (currently moving server, please try again later!)
 
 
