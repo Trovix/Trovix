@@ -19,6 +19,6 @@
 - FPGA / HDL 
 
 ## Links
-- [james-platt.com](https://james-platt.com) (currently moving server, please try again later!)
+- [james-platt.com](https://james-platt.com) 
 
 
