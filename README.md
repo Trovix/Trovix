@@ -2,7 +2,7 @@
 2nd Year Student studying Electrical & Electronic Engineering at the University of Manchester
 
 ## Current Focus
-- Formula Student - Electronics Sub-Team Lead (IC + EV platforms)
+- Formula Student - Electronics Sub-Team Lead (IC + EV platforms) (25-26 season)
 - Safety-critical embedded systems (Shutdown circuitry, CAN)
 - Cross-platform arbitrage system (Icarus)
 
