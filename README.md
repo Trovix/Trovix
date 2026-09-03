@@ -1,5 +1,5 @@
 # James Platt
-2nd Year Student studying Electrical & Electronic Engineering at the University of Manchester
+3rd Year Student studying Electrical & Electronic Engineering at the University of Manchester
 
 ## Current Focus
 - Formula Student - Electronics Sub-Team Lead (IC + EV platforms) (25-26 season)
